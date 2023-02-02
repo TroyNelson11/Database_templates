@@ -1,0 +1,4 @@
+RoleID,RoleType,FirstName,LastName,Email
+1,SuperAdmin,Jeff,Nelson,example@example.com
+20,TeamAdmin,Jane,Doe,example2@example.com
+40,User,Hue,Manning,example3@example.com
